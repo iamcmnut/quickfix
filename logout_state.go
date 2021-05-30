@@ -1,6 +1,6 @@
 package quickfix
 
-import "github.com/quickfixgo/quickfix/internal"
+import "github.com/iamcmnut/quickfix/internal"
 
 type logoutState struct{ connectedNotLoggedOn }
 
